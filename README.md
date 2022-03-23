@@ -1,6 +1,6 @@
 # todo-list with vanilla javascript
 
-##features
+**features**
 
 -Task saved to the local browser
 -Deleting and adding functionalities
